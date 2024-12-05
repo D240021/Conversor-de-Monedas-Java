@@ -14,6 +14,6 @@
 <p>Todo el funcionamiento del software se desarrolla en consola, consiste en seleccionar una de las opciones según el interés de conversión para posteriormente colocar el monto a cambiar.</p
 
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/7aa9478f-7696-43f3-a3e8-e1a5fd64c4a3" alt="Ejemplo proyecto" width="700">
+    <img src="https://github.com/user-attachments/assets/7aa9478f-7696-43f3-a3e8-e1a5fd64c4a3" alt="Ejemplo proyecto" width="700" align="center">
 </div>
 
