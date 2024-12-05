@@ -10,6 +10,7 @@
 </div>
 
 <h2 align="center"> Funcionamiento </h2>
+
 <div align="center">
     <img src="https://github.com/user-attachments/assets/7aa9478f-7696-43f3-a3e8-e1a5fd64c4a3" alt="Ejemplo proyecto" width="700">
 </div>
